@@ -25,7 +25,7 @@ THEN I find a concise, descriptive title
 
 Issues & Explanation:
 Live Site: 
-     https://EdenKhao.github.io/wk1-homework/index.html 
+     https://EdenKhao.github.io/wk1-homework/
    
 Code Repo: 
      https://github.com/EdenKhaos/wk1-homework 
