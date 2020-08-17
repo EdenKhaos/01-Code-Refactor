@@ -1,12 +1,13 @@
-# wk1-homework
-
-
+# 01-Code Refractor
+```
+One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
+```
 ## User Story
-
+```
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
-
+```
 ## Acceptance Criteria
 
 ```
@@ -22,8 +23,9 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-
-Issues & Explanation:
+```
+## Issues & Explanation:
+```
 Live Site: 
      https://EdenKhao.github.io/wk1-homework/
    
@@ -33,7 +35,9 @@ Code Repo:
 Issues & Explainations:
      https://github.com/EdenKhaos/wk1-homework/edit/master/README.md
      
-Follow psuedo code in html file (index.html)
+```     
+## Follow psuedo code in html file (index.html)
+```
 1. placed full company name between title tag
 2. decription of the company
 3. change div to header to specifiy location on page
@@ -55,15 +59,17 @@ Follow psuedo code in html file (index.html)
 19. change div to section closing
 20. change div to footer
 21. change div to footer closing
-
-Things checked for in the html.
+```
+## Things checked for in the html.
+```
 1. links from nav bar go to body sections when clicked.
 2. all images ahave added alt for accessibility
 3. all cascading elements go in a logical and sequential order
 4. overal html structure is cleaner than before and logical structure as best as I know how at the moment
 6. new elements such as role="" were googlefoo for clarity to help the accessibility to function correctly by adding classification tags
-
-Follow psuedo code in css file (style.html)
+```
+## Follow psuedo code in css file (style.html)
+```
 1. remove .
 2. change header background color to match the body section blue color
 3. remove .
@@ -74,8 +80,9 @@ Follow psuedo code in css file (style.html)
 8. remove . 
 9. remove . 
 10. remove . 
-
-Things checked for in the css.
+```
+## Things checked for in the css.
+``
 1. clean up nav bar color to match closer to body section blue.
 2. seo lettering color change in header h1 to contrast with white color lettering around seo
 3. remove "." for element class as element classes were remove or renamed under another tag type to allow the CSS to work
