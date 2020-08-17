@@ -27,13 +27,13 @@ THEN I find a concise, descriptive title
 ## Issues & Explanation:
 ```
 Live Site: 
-     https://EdenKhao.github.io/wk1-homework/
+     https://edenkhaos.github.io/01-Code-Refactor/
    
 Code Repo: 
-     https://github.com/EdenKhaos/wk1-homework 
+     https://github.com/EdenKhaos/01-Code-Refactor
   
 Issues & Explainations:
-     https://github.com/EdenKhaos/wk1-homework/edit/master/README.md
+     https://github.com/EdenKhaos/01-Code-Refactor/edit/master/README.md
      
 ```     
 ## Follow psuedo code in html file (index.html)
